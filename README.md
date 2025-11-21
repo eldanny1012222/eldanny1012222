@@ -23,6 +23,11 @@ Junior SOC Analyst with a B.S. in Computer Science and hands-on experience in SI
 ### Cloud
 
 ## Certifications
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white)]()
+[![Network+](https://img.shields.io/badge/CompTIA-Network%2B-orange?logo=comptia&logoColor=white)]()
+[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?logo=google&logoColor=white)]()
+[![LetsDefend](https://img.shields.io/badge/LetsDefend-SOC%20Analyst%20Path-purple)]()
+
 
 ## Projects
 - ?????
