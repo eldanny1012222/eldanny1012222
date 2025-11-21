@@ -6,21 +6,28 @@
 Junior SOC Analyst with a B.S. in Computer Science and hands-on experience in SIEM monitoring, incident response, and threat analysis through the LetsDefend SOC Analyst Path. Coming from healthcare and management, I bring strong attention to detail and a genuine passion for strengthening security operations.
 
 ## Objective 
+My passion for tackling new challenges led me to Computer Science and cybersecurity. I’m excited to apply my skills as a Tier 1 Security Operations Center (SOC) Analyst while continuing to grow through hands-on projects.
 
 ## Skills
+- Coming Soon!!
 
 | Skill                                          | Associated Project |
 |------------------------------------------------|--------------------|
 
 ## Tools
+- Coming Soon!!
 
 ### Network
+- Coming Soon!!
 
 ### Endpoint
+- Coming Soon!!
 
 ### SIEM
+- Coming Soon!!
 
 ### Cloud
+- Coming Soon!!
 
 ## Certifications
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white)]()
@@ -30,10 +37,7 @@ Junior SOC Analyst with a B.S. in Computer Science and hands-on experience in SI
 
 
 ## Projects
-- ?????
-- ?????
-- ?????
-- ?????
+- Coming Soon!!
 
 
 
