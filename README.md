@@ -35,6 +35,8 @@ My passion for tackling new challenges led me to Computer Science and cybersecur
 [![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?logo=google&logoColor=white)]()
 [![LetsDefend](https://img.shields.io/badge/LetsDefend-SOC%20Analyst%20Path-purple)]()
 
+### In the Works
+[![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B--In%20Progress-lightgrey?logo=comptia&logoColor=white)]()
 
 ## Projects
 - Coming Soon!!
