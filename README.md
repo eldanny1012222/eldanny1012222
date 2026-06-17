@@ -3,6 +3,20 @@
 
 ---
 
+## 📡 Networking Labs
+| Lab | Description |
+|-----|-------------|
+| VLANs | VLAN configuration and trunking |
+| Inter-VLAN Routing | Routing between VLANs |
+| OSPF | Multi-area OSPF routing setup |
+| NAT/PAT | Network address translation implementation |
+| ACLs | Traffic filtering using access control lists |
+| STP | Redundancy and loop prevention |
+| EtherChannel | Link aggregation configuration |
+| IPv4/IPv6 | Addressing and troubleshooting |
+
+---
+
 ## 🧠 About Me
 Entry-level Network Engineer with a B.S. in Computer Science and hands-on experience building and troubleshooting network topologies using Cisco Packet Tracer and real-world networking labs. CompTIA Security+ and Network+ certified with a strong interest in routing, switching, and enterprise network design.
 
@@ -25,20 +39,6 @@ I’m focused on growing as a Network Engineer and gaining hands-on experience w
 - Wireshark
 - Cisco Packet Tracer
   
----
-
-## 📡 Networking Labs
-| Lab | Description |
-|-----|-------------|
-| VLANs | VLAN configuration and trunking |
-| Inter-VLAN Routing | Routing between VLANs |
-| OSPF | Multi-area OSPF routing setup |
-| NAT/PAT | Network address translation implementation |
-| ACLs | Traffic filtering using access control lists |
-| STP | Redundancy and loop prevention |
-| EtherChannel | Link aggregation configuration |
-| IPv4/IPv6 | Addressing and troubleshooting |
-
 ---
 
 ## 🎓 Certifications
