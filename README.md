@@ -1,5 +1,5 @@
 ## Hello I'm Daniel 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/daniel-neri-8516bb249/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/daniel-neri-jimenez-8516bb249/)
 
 ## About me
 
