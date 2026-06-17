@@ -1,17 +1,22 @@
 ## Hello I'm Daniel 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/daniel-neri-jimenez-8516bb249/)
 
-## About me
+---
 
+## 🧠 About Me
 Entry-level Network Engineer with a B.S. in Computer Science and hands-on experience building and troubleshooting network topologies using Cisco Packet Tracer and real-world networking labs. CompTIA Security+ and Network+ certified with a strong interest in routing, switching, and enterprise network design.
 
-## Objective 
+---
+
+## 🎯 Objective
 I’m focused on growing as a Network Engineer and gaining hands-on experience with enterprise networking environments. I enjoy building labs, troubleshooting network issues, and understanding how data moves across complex systems.
 
-## Skills
-- Cisco IOS
+---
+
+## 🛠️ Skills
+- Cisco IOS / CLI
 - Routing & Switching
-- VLANs
+- VLANs / Trunking
 - OSPF
 - IPv4 / IPv6
 - NAT / PAT
@@ -19,9 +24,10 @@ I’m focused on growing as a Network Engineer and gaining hands-on experience w
 - STP / EtherChannel
 - Wireshark
 - Cisco Packet Tracer
+  
+---
 
-## Networking Labs
-
+## 📡 Networking Labs
 | Lab | Description |
 |-----|-------------|
 | VLANs | VLAN configuration and trunking |
@@ -33,7 +39,9 @@ I’m focused on growing as a Network Engineer and gaining hands-on experience w
 | EtherChannel | Link aggregation configuration |
 | IPv4/IPv6 | Addressing and troubleshooting |
 
-## Certifications
+---
+
+## 🎓 Certifications
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white)]()
 [![Network+](https://img.shields.io/badge/CompTIA-Network%2B-orange?logo=comptia&logoColor=white)]()
 [![Splunk Power User](https://img.shields.io/badge/Splunk-Core%20Certified%20Power%20User%20(SPLK--1002)-black?logo=splunk&logoColor=white)]()
